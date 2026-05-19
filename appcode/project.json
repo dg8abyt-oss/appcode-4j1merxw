@@ -1,0 +1,14 @@
+{
+  "id": "4j1merxw",
+  "name": "Link",
+  "repo": "appcode-4j1merxw",
+  "description": "An app that lets me recieve notifications if the app recieves a post request all i go to is / and enable notifications and any messages sent to the webhook gets a notification on any device i do it on",
+  "status": "planning",
+  "techStack": [
+    "TypeScript",
+    "PostgreSQL"
+  ],
+  "framework": "Next.js",
+  "createdAt": "2026-05-19T21:34:51.600Z",
+  "updatedAt": "2026-05-19T21:34:51.600Z"
+}
